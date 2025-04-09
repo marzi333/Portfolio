@@ -2,8 +2,6 @@
 
 # Hi, I'm Mariz.
 
-I'm a curious and resourceful software engineer with a strong passion for creating a positive impact through disruptive technologies.
-
 ---
 
 ## Projects
@@ -17,23 +15,31 @@ I'm a curious and resourceful software engineer with a strong passion for creati
 
 
 
- A low-code framework for connecting and orchestrating IoT devices in an industrial setting in a Mixed Reality environment.
+ A low-code framework for connecting and controlling IoT devices in a Mixed Reality environment.
 
  In this project I:
-- Redesigned the interface of the HoloWot 1.0 application, where usability studies yielded an average rating of 4.21/5 across key UI elements.
-- Engineered a mashup creation process in a MR environment tailored for industrial settings.
-- Participated in the development of the WoT.Net library; a scripting API based on W3C standards to promote interoperability across diverse IoT devices.
-- Checkout the [video demo on Behance](https://www.behance.net/gallery/219779283/HoloWot20-Connecting-IoT-Devices-in-Mixed-Reality?error=invalid_scope) or watch the [presentation at the Deutsches Museum on Youtube](https://www.youtube.com/live/e8iBIOo6fb0?si=b9eN-O429DE8Ts3x&t=2260) (German).
+- **Redesigned the interface** of the HoloWot 1.0 application, where **usability studies** yielded an **average rating of 4.21/5** across key UI elements.
+- **Engineered a low-code process** of creating mashups in a MR environment tailored for industrial settings.
+- Participated in the **development of** the **WoT.Net library; a scripting API** based on W3C standards.
+- Checkout the <a href="https://www.behance.net/gallery/219779283/HoloWot20-Connecting-IoT-Devices-in-Mixed-Reality?error=invalid_scope" target="_blank" rel="noopener noreferrer">video demo on Behance</a> or watch the <a href="https://www.youtube.com/live/e8iBIOo6fb0?si=b9eN-O429DE8Ts3x&t=2260" target="_blank" rel="noopener noreferrer">presentation at the Deutsches Museum on Youtube</a> (German).
 
 **Tech:** ``Unity``, ``C#``, ``Mixed Reality Toolkit 3``, ``Web of Things (WoT)``
 
 ---
 
-### [GloWish](https://mnakhla.github.io/GlowishFrontend/)
+### <a href="https://mnakhla.github.io/GlowishFrontend/" target="_blank" rel="noopener noreferrer">GloWish</a>
 <p float="cetner">
-  <img src="images/Glowish.jpg" width="200" />
+  <img src="images/Glowish.jpg" width="250" />
 </p>
-Another brief blurb about your work.
+A freelancing platform that connects up-and-coming beauty artists with clients, offering an automated appointment booking system.
+
+In this project I:
+- **Managed a 3-person team** to build the website in an **agile** manner.
+-  Collaborated with the team to brainstorm the idea and **develop the business model** and value proposition.
+- Designed and **developed backend and frontend** functionalities of the freelancer profile and appointments management system.
+- Check out the technical considerations that we took in the <a href="https://mnakhla.github.io/GlowishFrontend/" target="_blank" rel="noopener noreferrer">project documentation</a>.
+
+
 
 **Tech:** `React`, `Node.js`, `MongoDB`
 
