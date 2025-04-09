@@ -1,7 +1,7 @@
 
 
 # Hi, I'm Mariz.
-
+> As you can see from my projects, I like to keep things tech-agnostic — from building MERN stack web apps to crafting games in Unity, I’m all about diving into whatever tech fits the challenge (or just seems fun to try).
 ---
 
 ## Projects
@@ -44,6 +44,19 @@ In this project I:
 **Tech:** ``MERN Stack``, ``React Leaflet``, ``MongoDB``, ``ReactJS``, ``Node.js``, ``ExpressJS``, ``JavaScript``
 
 ---
+### <a href="https://devpost.com/software/conquershot" target="_blank" rel="noopener noreferrer">🏆 HackaTUM 2022: 2nd Place winner of Huawei Competition</a>
+<p float="cetner">
+  <img src="images/conquershot.jpg" width="200" />
+</p>
+Conquershot:  A smart gamification idea for labeling tasks on OpenStreetMap.
+
+
+
+
+**Tech:** ``ReactJS``, ``OpenStreetMap``, ``Javascript``
+
+---
+
 
 ### <a href="https://www.behance.net/gallery/103365935/A-Recreated-Version-of-Titanfall2" target="_blank" rel="noopener noreferrer">Titanfall2 FPS</a>
 <p float="cetner">
@@ -92,6 +105,7 @@ In this project I:
 
 ## 📫 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: [you@example.com](mailto:you@example.com)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- GitHub: <a href="https://github.com/marzi333" target="_blank" rel="noopener noreferrer">@marzi333</a>
+- Email: <a href="" target="_blank" rel="noopener noreferrer">mariz.awad97@gmail.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/mariz-awad-m-sc-4354a1120/" target="_blank" rel="noopener noreferrer">@mariz-awad-m-sc-4354a1120</a>
+
