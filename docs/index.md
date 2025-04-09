@@ -29,7 +29,7 @@
 
 ### <a href="https://mnakhla.github.io/GlowishFrontend/" target="_blank" rel="noopener noreferrer">GloWish: Freelancing Platform</a>
 <p float="cetner">
-  <img src="images/Glowish.jpg" width="250" />
+  <img src="images/Glowish.jpg" width="300" />
 </p>
 A freelancing platform that connects up-and-coming beauty artists with clients, offering an automated appointment booking system.
 
@@ -47,8 +47,8 @@ In this project I:
 
 ### <a href="https://www.behance.net/gallery/103365935/A-Recreated-Version-of-Titanfall2" target="_blank" rel="noopener noreferrer">Titanfall2 FPS</a>
 <p float="cetner">
-  <img src="images/Titanfall1.jpg" width="250" />
-  <img src="images/Titanfall2.jpg" width="250" />
+  <img src="images/Titanfall1.jpg" width="300" />
+  <img src="images/Titanfall2.jpg" width="300" />
 </p>
 A FPS game inspired by Titanfall2.
 
@@ -61,8 +61,8 @@ In this project I:
 ---
 ### [Bachelor Thesis: A-Learning Platform](https://www.behance.net/gallery/103471519/Platform-of-3-Educational-Games)
 <p float="cetner">
-  <img src="images/BachelorThesis.jpg" width="250" />
-  <img src="images/BachelorThesis2.jpg" width="250" />
+  <img src="images/BachelorThesis.jpg" width="300" />
+  <img src="images/BachelorThesis2.jpg" width="300" />
 </p>
 Platform of 5 serious games embedded with a pool of MCQs, featuring an AI engine that adapts the difficulty to the player's performance.
 
@@ -79,7 +79,7 @@ In this project I:
 ---
 ### <a href="https://www.behance.net/gallery/103468513/3D-Modeling-of-a-Spaceship" target="_blank" rel="noopener noreferrer">3D Modeling of a Spaceship</a>
 <p float="cetner">
-  <img src="images/Spaceship.jpg" width="200" />
+  <img src="images/Spaceship.jpg" width="300" />
   
 </p>
 3D modeling and animation of a Spaceship with particle effects and simple graph shader.
