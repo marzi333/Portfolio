@@ -1,7 +1,7 @@
 
 
 # Hi, I'm Mariz.
-> As you can see from my projects, I like to keep things tech-agnostic — from building MERN stack web apps to crafting games in Unity, I’m all about diving into whatever tech fits the challenge (or just seems fun to try).
+As you can see from my projects, I like to keep things tech-agnostic — from building MERN stack web apps to crafting games in Unity, I’m all about diving into whatever tech fits the challenge (or just seems fun to try).
 
 ---
 
