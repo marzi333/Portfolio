@@ -27,7 +27,7 @@
 
 ---
 
-### <a href="https://mnakhla.github.io/GlowishFrontend/" target="_blank" rel="noopener noreferrer">GloWish</a>
+### <a href="https://mnakhla.github.io/GlowishFrontend/" target="_blank" rel="noopener noreferrer">GloWish: Freelancing Platform</a>
 <p float="cetner">
   <img src="images/Glowish.jpg" width="250" />
 </p>
@@ -41,38 +41,51 @@ In this project I:
 
 
 
-**Tech:** `React`, `Node.js`, `MongoDB`
+**Tech:** ``MERN Stack``, ``React Leaflet``, ``MongoDB``, ``ReactJS``, ``Node.js``, ``ExpressJS``, ``JavaScript``
 
 ---
 
-### [Titanfall2 FPS](https://www.behance.net/gallery/103365935/A-Recreated-Version-of-Titanfall2)
+### <a href="https://www.behance.net/gallery/103365935/A-Recreated-Version-of-Titanfall2" target="_blank" rel="noopener noreferrer">Titanfall2 FPS</a>
 <p float="cetner">
-  <img src="images/Titanfall1.jpg" width="200" />
-  <img src="images/Titanfall2.jpg" width="200" />
+  <img src="images/Titanfall1.jpg" width="250" />
+  <img src="images/Titanfall2.jpg" width="250" />
 </p>
-Another brief blurb about your work.
+A FPS game inspired by Titanfall2.
 
-**Tech:** `React`, `Node.js`, `MongoDB`
+In this project I:
+- **Led a team of 5** software developers where I divided the workload, delegated tasks and monitored performance in order to meet a specific **deadline**.
+- **Programmed** the **Physics** involved in the different **weapon firing modes**, **projectiles**, and Titan character abilities.
+
+**Tech:** ``Unity``, ``C#``
 
 ---
 ### [Bachelor Thesis: A-Learning Platform](https://www.behance.net/gallery/103471519/Platform-of-3-Educational-Games)
 <p float="cetner">
-  <img src="images/BachelorThesis.jpg" width="200" />
-  <img src="images/BachelorThesis2.jpg" width="200" />
+  <img src="images/BachelorThesis.jpg" width="250" />
+  <img src="images/BachelorThesis2.jpg" width="250" />
 </p>
-Another brief blurb about your work.
+Platform of 5 serious games embedded with a pool of MCQs, featuring an AI engine that adapts the difficulty to the player's performance.
 
-**Tech:** `React`, `Node.js`, `MongoDB`
+In this project I:
+- **Conducted a literature review** on different serious games and **Computer Adaptive Testing (CAT)**.
+- **Developed a platform of 5 games** designed for MCQs.
+- **Built an AI engine** that **adapts question difficulty** to user performance, boosting **learning efficiency (Δ=0.083, p<.001)** vs. sequential systems.
+- **Developed a low-code editor** where the educator can install their own questions and retrain the model.
+- Check out the paper publication on <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=T5qjNFqo8q8=&t=1" target="_blank" rel="noopener noreferrer">scitepress</a>.
+
+
+**Tech:** ``Unity``, ``C#``, ``Bayesian Machine Learning``
 
 ---
-### [3D Modeling of a Spaceship](https://www.behance.net/gallery/103468513/3D-Modeling-of-a-Spaceship)
+### <a href="https://www.behance.net/gallery/103468513/3D-Modeling-of-a-Spaceship" target="_blank" rel="noopener noreferrer">3D Modeling of a Spaceship</a>
 <p float="cetner">
   <img src="images/Spaceship.jpg" width="200" />
   
 </p>
-Another brief blurb about your work.
+3D modeling and animation of a Spaceship with particle effects and simple graph shader.
 
-**Tech:** `React`, `Node.js`, `MongoDB`
+
+**Tech:** ``Autodesk Maya``, ``Unity``
 
 ---
 
