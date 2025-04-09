@@ -6,10 +6,11 @@ I'm a curious and resourceful software engineer with a strong passion for creati
 
 ## Projects
 
-### [Master Thesis: HoloWoT 2.0](https://www.behance.net/gallery/219779283/HoloWot20-Connecting-IoT-Devices-in-Mixed-Reality?error=invalid_scope)
+### <a href="https://www.behance.net/gallery/219779283/HoloWot20-Connecting-IoT-Devices-in-Mixed-Reality?error=invalid_scope" target="_blank" rel="noopener noreferrer">Master Thesis: HoloWoT 2.0</a>
+
 <p float="center">
-  <img src="images/vacuum-gripper-robot.jpg" width="200" />
-  <img src="images/VR.jpg" width="200" />
+  <img src="images/vacuum-gripper-robot.jpg" width="250" />
+  <img src="images/VR.jpg" width="250" />
 </p>
 
 
