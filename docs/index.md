@@ -107,6 +107,6 @@ In this project I:
 ## 📫 Contact
 
 - GitHub: <a href="https://github.com/marzi333" target="_blank" rel="noopener noreferrer">@marzi333</a>
-- Email: <a href="" target="_blank" rel="noopener noreferrer">mariz.awad97@gmail.com</a>
+- Email: <a href="mailto:mariz.awad97@gmail.com" target="_blank" rel="noopener noreferrer">mariz.awad97@gmail.com</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/mariz-awad-m-sc-4354a1120/" target="_blank" rel="noopener noreferrer">@mariz-awad-m-sc-4354a1120</a>
 
